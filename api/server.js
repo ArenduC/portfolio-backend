@@ -2,8 +2,8 @@ const express = require("express");
 const serverless = require("serverless-http");
 const { createClient } = require("@supabase/supabase-js");
 
-const API_CONFIG = require("./connection.js");
-const { sendPortfolioMail } = require("./mailer.js");
+const API_CONFIG = require("../connection.js");
+const { sendPortfolioMail } = require("../mailer.js");
 require("dotenv").config();
 
 const app = express();
