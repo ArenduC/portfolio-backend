@@ -59,6 +59,13 @@ app.get("/", (req, res) => {
   res.send("Hello PORTFOLIO");
 });
 
+if(require.main === module){
+  const PORT = process.env.PORT || 3090;
+  app.listen(PORT, ()=>{
+    console.log(`Local server running at http://localhost:${PORT}`)
+  })
+}
+
 // ✅ Export for Vercel
 module.exports = app;
 module.exports.handler = serverless(app);
