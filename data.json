@@ -1,0 +1,147 @@
+
+
+{"data":[
+        {
+            "month": "March     2025",
+            "max_date": "2025-03-02T12:33:24.06254+00:00",
+            "data": [
+                {
+                    "user": "pj",
+                    "userId": 18,
+                    "data": [
+                        {
+                            "created_date": "2025-03-02",
+                            "item": "ggg",
+                            "price": 56
+                        },
+                        {
+                            "created_date": "2025-03-02",
+                            "item": "kochupura",
+                            "price": 5000
+                        },
+                        {
+                            "created_date": "2025-03-02",
+                            "item": "bekar app",
+                            "price": -3000
+                        }
+                    ]
+                },
+                {
+                    "user": "pj",
+                    "userId": 18,
+                    "data": [
+                        {
+                            "created_date": "2025-03-02",
+                            "item": "ggg",
+                            "price": 56
+                        },
+                        {
+                            "created_date": "2025-03-02",
+                            "item": "kochupura",
+                            "price": 5000
+                        },
+                        {
+                            "created_date": "2025-03-02",
+                            "item": "bekar app",
+                            "price": -3000
+                        }
+                    ]
+                },
+                {
+                    "user": "pj",
+                    "userId": 18,
+                    "data": [
+                        {
+                            "created_date": "2025-03-02",
+                            "item": "ggg",
+                            "price": 56
+                        },
+                        {
+                            "created_date": "2025-03-02",
+                            "item": "kochupura",
+                            "price": 5000
+                        },
+                        {
+                            "created_date": "2025-03-02",
+                            "item": "bekar app",
+                            "price": -3000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "month": "March     2025",
+            "max_date": "2025-03-02T11:51:27.244735+00:00",
+            "data": [
+                {
+                    "user": "TUSHAR KHAN",
+                    "userId": 17,
+                    "data": [
+                        {
+                            "created_date": "2025-03-02",
+                            "item": "egg 6 ",
+                            "price": 36
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "month": "March     2025",
+            "max_date": "2025-03-02T11:50:40.152985+00:00",
+            "data": [
+                {
+                    "user": "Avijit",
+                    "userId": 16,
+                    "data": [
+                        {
+                            "created_date": "2025-03-02",
+                            "item": "ফুলকপি ",
+                            "price": 30
+                        },
+                        {
+                            "created_date": "2025-03-02",
+                            "item": "ফুলকপি ",
+                            "price": 30
+                        }
+                    ]
+                },
+                {
+                    "user": "Avijit",
+                    "userId": 16,
+                    "data": [
+                        {
+                            "created_date": "2025-03-02",
+                            "item": "ফুলকপি ",
+                            "price": 30
+                        },
+                        {
+                            "created_date": "2025-03-02",
+                            "item": "ফুলকপি ",
+                            "price": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "month": "March     2025",
+            "max_date": "2025-03-02T11:48:46.990392+00:00",
+            "data": [
+                {
+                    "user": "Arendu Chanda",
+                    "userId": 14,
+                    "data": [
+                        {
+                            "created_date": "2025-03-02",
+                            "item": "grocery ",
+                            "price": 72
+                        }
+                    ]
+                }
+            ]
+        }
+    ]}
+
+  
