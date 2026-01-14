@@ -1,12 +1,24 @@
 const express = require("express");
 const serverless = require("serverless-http");
 const { createClient } = require("@supabase/supabase-js");
+const cors = require("cors");
 
 const API_CONFIG = require("./connection.js");
 const { sendPortfolioMail } = require("./mailer.js");
 require("dotenv").config();
 
 const app = express();
+
+
+
+app.use(cors({
+  origin: "*", // or your domain
+  methods: ["GET", "POST", "OPTIONS"],
+  allowedHeaders: ["Content-Type"]
+}));
+
+
+
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
